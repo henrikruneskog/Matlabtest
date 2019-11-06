@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "hej",
+    "owner": "Henrik",
+    "description": "gw"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "imngen"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "RUnestream",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Henrik"
+  }
+}
