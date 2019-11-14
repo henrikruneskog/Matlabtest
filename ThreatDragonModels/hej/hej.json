@@ -36,7 +36,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "RuneStream"
+                  "text": "RuneStream\nStreaming\nPlatform"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -444,7 +444,8 @@
                 "id": "de821ce1-c330-46e1-9c09-8905b7e7d6f5"
               },
               "target": {
-                "id": "9915f7d4-5d0e-4152-8656-bdf1729e466c"
+                "x": 381,
+                "y": 97
               },
               "vertices": [],
               "id": "98aa11b9-ecf9-4fd1-a4a2-6bc9fe6380c6",
@@ -453,7 +454,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Log in",
+                      "text": "Usage",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -475,10 +476,10 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "9915f7d4-5d0e-4152-8656-bdf1729e466c"
+                "id": "9b9fc2f0-b050-48c8-8870-8e21a8bf6511"
               },
               "target": {
-                "id": "9b9fc2f0-b050-48c8-8870-8e21a8bf6511"
+                "id": "9915f7d4-5d0e-4152-8656-bdf1729e466c"
               },
               "vertices": [],
               "id": "d0981b4e-3e24-47a1-8c38-a7d79ea4e076",
@@ -487,7 +488,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Usage",
+                      "text": "Log in",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1047,7 +1048,16 @@
                 "x": 684,
                 "y": 139
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 606,
+                  "y": 155
+                },
+                {
+                  "x": 664,
+                  "y": 142
+                }
+              ],
               "id": "f7f9c7f8-834d-4d00-9875-2b6f52aa7f61",
               "z": 33,
               "attrs": {}
@@ -1185,6 +1195,22 @@
               "vertices": [],
               "id": "471fc2ff-7402-4252-8382-a37f96d519b2",
               "z": 40,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 372,
+                "y": 180
+              },
+              "target": {
+                "x": 460,
+                "y": 197
+              },
+              "vertices": [],
+              "id": "15e80601-3e26-4cd2-b055-e2fdb26a70fe",
+              "z": 42,
               "attrs": {}
             }
           ]
